@@ -32,7 +32,9 @@ THEN user is prompted to select an employee to update and their new role and thi
 
 ## Installation
 
-`$ npm i `
+```md
+$ npm i
+```
 
 ## Mock-Up
 
